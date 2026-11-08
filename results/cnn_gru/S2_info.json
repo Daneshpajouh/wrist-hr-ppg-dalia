@@ -1,0 +1,8 @@
+{
+ "val_subject": "S3",
+ "best_epoch": 9,
+ "val_mae": 1.8676695823669434,
+ "params": 334017,
+ "test_mae": 2.885986328125,
+ "seconds": 214
+}

@@ -1,0 +1,8 @@
+{
+ "val_subject": "S12",
+ "best_epoch": 3,
+ "val_mae": 3.416548252105713,
+ "params": 334017,
+ "test_mae": 4.36041784286499,
+ "seconds": 213
+}

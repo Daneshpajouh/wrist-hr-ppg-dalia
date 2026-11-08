@@ -1,0 +1,8 @@
+{
+ "val_subject": "S5",
+ "best_epoch": 5,
+ "val_mae": 9.456719398498535,
+ "params": 334017,
+ "test_mae": 5.035816192626953,
+ "seconds": 210
+}

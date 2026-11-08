@@ -1,0 +1,8 @@
+{
+ "val_subject": "S10",
+ "best_epoch": 9,
+ "val_mae": 3.3230903148651123,
+ "params": 296833,
+ "test_mae": 8.268388748168945,
+ "seconds": 64
+}
