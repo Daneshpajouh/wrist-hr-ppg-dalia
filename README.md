@@ -233,5 +233,5 @@ The SHA-256 of the downloaded archive used here was
 
 ## Licence
 
-The code licence is not yet chosen. The dataset remains under CC BY 4.0 with
-credit to Reiss et al.
+The code is released under the MIT licence (see LICENSE). The dataset is not
+included; it remains under CC BY 4.0 with credit to Reiss et al.
